@@ -3,7 +3,7 @@
     <title>Blog</title>
     <link href="https://viktorcode.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://viktorcode.github.io/gh-pages" />
-    <updated>2026-06-12T08:54:48+02:00</updated>
+    <updated>2026-06-13T09:29:35+02:00</updated>
     <author>
         <name>Viktor Chernikov</name>
     </author>
@@ -16,7 +16,6 @@
         </author>
         <link href="https://viktorcode.github.io/gh-pages/swift-performance-optimisation-for-software-ray-tracing.html"/>
         <id>https://viktorcode.github.io/gh-pages/swift-performance-optimisation-for-software-ray-tracing.html</id>
-        <media:content url="https://viktorcode.github.io/gh-pages/media/posts/1/1770720483079.png" medium="image" />
             <category term="Swift"/>
             <category term="Performance"/>
             <category term="Graphics"/>
@@ -24,13 +23,11 @@
         <updated>2026-06-12T08:35:21+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://viktorcode.github.io/gh-pages/media/posts/1/1770720483079.png" alt="" />
                     Scene rendered at 600x300 with 30 rays cast per pixel How I made a pure Swift path tracer run fast(er). Some time last year I stumbled on one try! Swift conference talk titled "Graphics like Pixar using Swift" by Michael Petrie a.k.a. Kapsy. The talk&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://viktorcode.github.io/gh-pages/media/posts/1/1770720483079.png" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
       <img loading="lazy" src="https://viktorcode.github.io/gh-pages/media/posts/1/1770720483079-2.png" height="720" width="1279" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://viktorcode.github.io/gh-pages/media/posts/1/responsive/1770720483079-2-xs.png 640w ,https://viktorcode.github.io/gh-pages/media/posts/1/responsive/1770720483079-2-sm.png 768w ,https://viktorcode.github.io/gh-pages/media/posts/1/responsive/1770720483079-2-md.png 1024w ,https://viktorcode.github.io/gh-pages/media/posts/1/responsive/1770720483079-2-lg.png 1366w ,https://viktorcode.github.io/gh-pages/media/posts/1/responsive/1770720483079-2-xl.png 1600w ,https://viktorcode.github.io/gh-pages/media/posts/1/responsive/1770720483079-2-2xl.png 1920w">
